@@ -22,7 +22,7 @@ The assignment demonstrates the step-by-step configuration of AWS networking res
 ## Video Demonstration
 Watch the complete assignment explanation here:
 
-[YouTube Video](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[YouTube Video](https://youtu.be/_vVQ_VXLyJ0)
 
 ## Screenshots
 Screenshots of the AWS configuration are included in the repository.
